@@ -1,6 +1,6 @@
 # boulder
 
-A lightweight, high-performance in-memory data store written in modern C++. Boulder implements the Redis protocol (RESP) and core data structures, designed for learning systems programming and demonstrating production-quality infrastructure code.
+A lightweight, high-performance in-memory data store written in modern C/C++. Boulder implements the Redis protocol (RESP) and core data structures, designed for learning systems programming and demonstrating production-quality infrastructure code.
 
 ## Features
 
@@ -15,7 +15,7 @@ A lightweight, high-performance in-memory data store written in modern C++. Boul
 ## Why Boulder?
 
 Boulder was built to understand the internals of high-performance key-value stores from the ground up. Every line of code demonstrates:
-- Systems programming fundamentals in C++
+- Systems programming fundamentals in C/C++
 - Network protocol implementation
 - Memory management and optimization
 - Concurrent data structure design
